@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GPA_brownd13_Calculator</string>
+    <string name="main_top_line">Enter numeric grades</string>
+    <string name="text_header">Second Activity</string>
+    <string name="course01">Course 1</string>
+    <string name="course02">Course 2</string>
+    <string name="course03">Course 3</string>
+    <string name="course04">Course 4</string>
+    <string name="course05">Course 5</string>
+    <string name="GPAtext">GPA</string>
+    <string name="GPAcalc"> </string>
+    <!-- Button text -->
+    <string name="computeGPA">Compute GPA</string>
+    <string name="clearForm">Clear Form</string>
+    <string name="clearGPA">Clear GPA</string>
+    <string name="clearAll">Clear All</string>
+</resources>
